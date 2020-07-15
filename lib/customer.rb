@@ -26,5 +26,6 @@ class Customer
     meals.collect do |meal|
     meal.waiter
   end
+end
  
 end
